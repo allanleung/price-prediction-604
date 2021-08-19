@@ -6,10 +6,10 @@ The general approach to this huge dataset was as follows.
 
 * Clean rows and columns and knock out easy low hanging fruits
 * Data preprocessing 
-** Handling Null Values
-** Standardization
-** Handling Categorical Variables
-** One-Hot Encoding
-** Multicollinearity
+* Handling Null Values
+* Standardization
+* Handling Categorical Variables
+* One-Hot Encoding
+* Multicollinearity
 
 After the it's a lot of trial and erorr to see what model works and getting a good score. The results is in the notebook.
